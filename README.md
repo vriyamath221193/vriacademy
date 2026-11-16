@@ -1,6 +1,3 @@
-[vriacademy_portal_belajar_matematika_interaktif.html](https://github.com/user-attachments/files/34923210/vriacademy_portal_belajar_matematika_interaktif.html)
-# vriacademy
-web
 <!DOCTYPE html>
 <html lang="id" class="scroll-smooth">
 <head>
